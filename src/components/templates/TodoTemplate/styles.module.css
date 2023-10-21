@@ -1,3 +1,8 @@
 .container {
-  color: fff;
+  width: 50%;
+  margin: 80px auto;
+}
+
+.titleBox {
+  text-align: center;
 }
